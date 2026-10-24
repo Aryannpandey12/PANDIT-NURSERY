@@ -1,0 +1,175 @@
+{
+  "money-plant": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "snake-plant": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\snake-plant.download'"
+  },
+  "aloe-vera": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\aloe-vera.download'"
+  },
+  "spider-plant": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\spider-plant.download'"
+  },
+  "peace-lily": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\peace-lily.download'"
+  },
+  "areca-palm": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "rubber-plant": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\rubber-plant.download'"
+  },
+  "zz-plant": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "boston-fern": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "croton": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\croton.download'"
+  },
+  "rose": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\rose.download'"
+  },
+  "hibiscus": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "marigold": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\marigold.download'"
+  },
+  "jasmine": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "arabian-jasmine": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "butterfly-pea": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "madagascar-periwinkle": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\madagascar-periwinkle.download'"
+  },
+  "oleander": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\oleander.download'"
+  },
+  "bougainvillea": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\bougainvillea.download'"
+  },
+  "plumeria": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\plumeria.download'"
+  },
+  "mango": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\mango.download'"
+  },
+  "guava": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\guava.download'"
+  },
+  "lemon": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\lemon.download'"
+  },
+  "pomegranate": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\pomegranate.download'"
+  },
+  "papaya": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\papaya.download'"
+  },
+  "banana": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\banana.download'"
+  },
+  "indian-gooseberry": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "java-plum": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "custard-apple": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\custard-apple.download'"
+  },
+  "jackfruit": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "holy-basil": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "neem": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\neem.download'"
+  },
+  "giloy": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "curry-leaf": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "ashwagandha": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\ashwagandha.download'"
+  },
+  "mint": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\mint.download'"
+  },
+  "lemongrass": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\lemongrass.download'"
+  },
+  "brahmi": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\brahmi.download'"
+  },
+  "ashoka-tree": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "bamboo": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\bamboo.download'"
+  },
+  "ficus": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\ficus.download'"
+  },
+  "crape-jasmine": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "spanish-cherry": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "night-blooming-jasmine": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "rangoon-creeper": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "garlic-vine": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "cactus": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\cactus.download'"
+  },
+  "jade-plant": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "echeveria": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\echeveria.download'"
+  },
+  "golden-pothos-vine": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "garlic-vine-climber": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "mountain-ebony": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\mountain-ebony.download'"
+  },
+  "flame-tree": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\flame-tree.download'"
+  },
+  "sunflower": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\sunflower.download'"
+  },
+  "dahlia": {
+    "error": "cannot identify image file 'D:\\\\nursery website\\\\public\\\\plants\\\\dahlia.download'"
+  },
+  "ficus-bonsai": {
+    "error": "HTTP Error 404: Not Found"
+  },
+  "terracotta-pot": null,
+  "potting-mix": null,
+  "organic-compost": null,
+  "planter-set": null,
+  "ornamental-palm": null
+}

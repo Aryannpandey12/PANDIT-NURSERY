@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 900" role="img" aria-label="पौधे की तस्वीर जल्द जोड़ी जाएगी">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff2df"/><stop offset="1" stop-color="#d2e2c5"/></linearGradient></defs>
+  <rect width="800" height="900" fill="url(#bg)"/><circle cx="400" cy="380" r="155" fill="#fff9e8" opacity=".7"/>
+  <g fill="none" stroke="#5c8c4c" stroke-width="20" stroke-linecap="round"><path d="M400 600V354m0 105c-82-18-121-64-124-131 75-4 122 37 124 102m0-18c71-35 98-88 82-148-67 16-96 58-82 111m0 165c68-10 103-48 107-102-64 0-99 33-107 78"/></g>
+  <path d="M278 621h244l-25 145H304z" fill="#b9784f"/><path d="M268 608h264v31H268z" fill="#d09364"/>
+  <text x="400" y="824" text-anchor="middle" fill="#456842" font-family="sans-serif" font-size="25">तस्वीर शीघ्र जोड़ी जाएगी</text>
+</svg>
